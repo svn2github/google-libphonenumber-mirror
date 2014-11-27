@@ -21,7 +21,7 @@ If you save the appengine sdk directory in a different place, you will need to u
 
 ===3. Get the jars for the phone number library===
 
-The `libphonenumber` and `offline-geocoder` jars need to be saved under `demo/war/WEB-INF/lib/`.
+The `libphonenumber`, `offline-geocoder`, `carrier` and `prefixmapper` jars need to be saved under `demo/war/WEB-INF/lib/`.
 
 You can either download them from the [http://code.google.com/p/libphonenumber/downloads/list Downloads page], or you can build them yourself:
 
